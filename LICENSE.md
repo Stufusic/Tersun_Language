@@ -76,10 +76,10 @@ Nếu bạn sử dụng Tersun hoặc các tài liệu trong dự án này cho c
 ```bibtex
 @software{tersun_platform_2026,
   author = {Tersun Computing Systems Research Group},
-  title = {Tersun 1.2.0: Unified Balanced Ternary Computing, Multi-Tier JIT/AOT Compiler, Scaled Quantum Simulator, Native LLM Inference Engine and TRSX Decompiler Ecosystem},
+  title = {Tersun 1.0.0: Unified Balanced Ternary Computing, Multi-Tier JIT/AOT Compiler, Scaled Quantum Simulator, Native LLM Inference Engine and TRSX Decompiler Ecosystem},
   year = {2026},
-  url = {https://github.com/Stufusic/Tersun},
-  version = {1.2.0},
+  url = {https://github.com/Stufusic/Tersun_Language},
+  version = {1.0.0},
   note = {Verified with 2.13M Mathematical Invariants, 12/12 CTest Automated Suites and Cryptographic Triad Seals}
 }
 ```
