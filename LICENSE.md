@@ -1,5 +1,5 @@
 # TERSUN INTELLECTUAL PROPERTY & ACADEMIC RESEARCH LICENSE (TIPARL)
-### Phiên bản: 1.2.0 — Bản Quyền Sở Hữu Trí Tuệ & Giấy Phép Nghiên Cứu Khoa Học (Gate 7.6.2 Sealed)
+### Phiên bản: 1.0.0 — Bản Quyền Sở Hữu Trí Tuệ & Giấy Phép Nghiên Cứu Khoa Học (Gate 7.6.2 Sealed)
 **Bản quyền © 2024–2026 Tersun - Stufusic. Bảo lưu mọi quyền (All Rights Reserved).**
 
 ---
@@ -98,7 +98,7 @@ PHẦN MỀM VÀ TÀI LIỆU NÀY ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" (AS IS),
 ---
 
 # TERSUN INTELLECTUAL PROPERTY & ACADEMIC RESEARCH LICENSE (TIPARL)
-## International English Version — Version 1.2.0 (Gate Sealed)
+## International English Version — Version 1.0.0 (Gate Sealed)
 **Copyright (c) 2024–2026 Tersun - Stufusic. All rights reserved.**
 
 ---
@@ -153,7 +153,7 @@ Any academic paper, technical report, or publication utilizing or referencing Te
   title = {Tersun Computing Platform: Unified Balanced Ternary Architecture, Native Access NA 1.0.0, Multi-Tier JIT/AOT Compiler, and Exact Algebraic Computing},
   year = {2026},
   url = {https://github.com/Stufusic/Tersun},
-  version = {1.2.0-NA-1.0.0},
+  version = {1.0.0-NA-1.0.0},
   note = {Formally Sealed under Cryptographic Merkle Root Proof: 6dadf6645f4524f68f0ad64db72554dabcf76f848a158e802b30d1e6645937e6}
 }
 ```
